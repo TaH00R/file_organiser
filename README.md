@@ -53,7 +53,7 @@ The Tkinter GUI includes:
 
 ## 🎥 Demo
 
-https://github.com/TaH00R/file_organiser/blob/main/demo.mkv
+https://github.com/TaH00R/file_organiser/blob/main/demo.mp4
 
 ---
 
